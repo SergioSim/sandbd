@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Building this blog with Jekyll
-date:   2022-10-17 09:00:00 +0200
+date: 2022-10-17 09:00:00 +0200
 categories: jekyll blog
 ---
 

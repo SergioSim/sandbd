@@ -34,7 +34,7 @@ minima:
   social_links:
     github: SergioSim/sandbd
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@3fc238ba038071eb1bb11a9a28600a0bd39b9d0c
 
 plugins:
   - jekyll-remote-theme
