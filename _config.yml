@@ -29,15 +29,13 @@ feed:
   disable: true
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d"
   skin: dark
-  social_links:
-    github: SergioSim/sandbd
 
-remote_theme: jekyll/minima@3fc238ba038071eb1bb11a9a28600a0bd39b9d0c
+theme: minima
 
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

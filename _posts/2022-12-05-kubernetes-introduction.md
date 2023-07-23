@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: Kubernetes Introduction
-date: 2022-12-05 09:00:00 +0200
-categories: kubernetes blog
+categories: kubernetes
 ---
 
 Here are some notes we took while reading some of the Kubernetes introduction &
